@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Aqua
+  - Pink
+  - Green
+  - Blue
+  - Purple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Gems
+  - Water
+  - UI
+  - Board
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Board
+    uniqueID: 1385188201
+    locked: 0
+  - name: Gems
+    uniqueID: 2486752429
+    locked: 0
